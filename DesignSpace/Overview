@@ -1,0 +1,10 @@
+Author: Daniel Shaughnessy
+Created: 09/29/2016
+
+Programm Directive:
+
+1. Given a defined set of inputs and evaluation rules for creation of a grid logic puzzle, the program will determine if the puzzle is solveable. 
+2. If the puzzle has a solution, the program will step through the puzzle with trackable movements until the puzzle is solved.
+3. if the puzzle is unsolvable, the program states why and how it can be fixed.
+
+
